@@ -1,0 +1,28 @@
+.container {
+        background: linear-gradient(300deg, #FEECE2, #E2BFB3, #F7DED0);
+        background-size: 180% 180%;
+        animation: gradient-animation 18s ease infinite;
+        padding-top: 10px;
+}
+
+.text-homepage {
+    font-family: "Cute Font", sans-serif;
+    font-size: 6rem;
+    font-weight: 900;
+    color: #FEECE2;
+}
+
+.title-homepage {
+    font-family: "Cute Font", sans-serif;
+    font-size: 2.8rem;
+    color: #FDF6F0;
+}
+
+.button-homepage {
+    background-color: #E6BAA3;
+    border: 5px #FEECE2;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
